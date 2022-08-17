@@ -1,0 +1,15 @@
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\bin\Debug\net6.0\TP.Aula04Exer.exe
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\bin\Debug\net6.0\TP.Aula04Exer.deps.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\bin\Debug\net6.0\TP.Aula04Exer.runtimeconfig.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\bin\Debug\net6.0\TP.Aula04Exer.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\bin\Debug\net6.0\TP.Aula04Exer.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\obj\Debug\net6.0\TP.Aula04Exer.csproj.AssemblyReference.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\obj\Debug\net6.0\TP.Aula04Exer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\obj\Debug\net6.0\TP.Aula04Exer.AssemblyInfoInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\obj\Debug\net6.0\TP.Aula04Exer.AssemblyInfo.cs
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\obj\Debug\net6.0\TP.Aula04Exer.csproj.CoreCompileInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\obj\Debug\net6.0\TP.Aula04Exer.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\obj\Debug\net6.0\refint\TP.Aula04Exer.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\obj\Debug\net6.0\TP.Aula04Exer.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\obj\Debug\net6.0\TP.Aula04Exer.genruntimeconfig.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula04Exer\TP.Aula04Exer\obj\Debug\net6.0\ref\TP.Aula04Exer.dll
